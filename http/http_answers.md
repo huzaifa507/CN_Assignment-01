@@ -1,14 +1,14 @@
 ##http 
 
 ## 1: What is the name of website? 
-Website Name: neverssl.com
+- Website Name: neverssl.com
 
 ## 2: Find the packet that contains the first GET request for the website you have accessed?
-Packet no : 50
-Time : 7.227100
+- Packet no : 50
+- Time : 7.227100
 
 ## 3: Describe all headers and their values in this GET request message.
- -Host: beautifulyoungfreshrain.neverssl.com\r\n
+ - Host: beautifulyoungfreshrain.neverssl.com\r\n
    - Connection: keep-alive\r\n
    - Cache-Control: max-age=0\r\n
   -  Upgrade-Insecure-Requests: 1\r\n
@@ -22,12 +22,12 @@ Time : 7.227100
     \r\n
 
 ## 4:  Identify the status code in the first server response.
-    -  Status Code : '200 OK'
+ - Status Code : '200 OK'
 
 ## 5:  How many HTTP response messages are exchanged in total? 
-    -  Total responses Displayed : 1
+- Total responses Displayed : 1
 
 ## 6: Determine whether the connection is persistent or not. Justify with evidence from packet captures. 
-    -  Connection is persistent,
-    -  Connection: keep-alive
+- Connection is persistent,
+ - Connection: keep-alive
     
