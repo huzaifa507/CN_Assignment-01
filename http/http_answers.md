@@ -21,14 +21,13 @@ Time : 7.227100
    - If-Modified-Since: Wed, 29 Jun 2022 00:23:22 GMT\r\n
     \r\n
 
-
-    ## 4:  Identify the status code in the first server response.
+## 4:  Identify the status code in the first server response.
     -  Status Code : '200 OK'
 
-    ## 5:  How many HTTP response messages are exchanged in total? 
+## 5:  How many HTTP response messages are exchanged in total? 
     -  Total responses Displayed : 1
 
-    ## 6: Determine whether the connection is persistent or not. Justify with evidence from packet captures. 
+## 6: Determine whether the connection is persistent or not. Justify with evidence from packet captures. 
     -  Connection is persistent,
     -  Connection: keep-alive
     
