@@ -36,6 +36,4 @@
 - TLS 1.3 encryption is built directly into QUIC.
 - Multiplexing streams avoids head-of-line blocking.
 - Faster connection setup is possible (0-RTT / 1-RTT).
-
-## 3. 
  
