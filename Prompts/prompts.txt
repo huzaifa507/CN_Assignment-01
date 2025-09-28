@@ -1,0 +1,17 @@
+1. How to capture HTTP packets in Wireshark?
+
+2. Steps to locate ClientHello in HTTPS traffic.
+
+3. How to check QUIC version in Wireshark?
+
+4. Difference between HTTP and HTTP/3?
+
+5. How to structure assignment files clearly?
+
+6. How to filter only TLS packets in Wireshark?
+
+7. Which fields in an HTTP response should be noted for analysis?
+
+8. How to identify if QUIC packets are Initial or Short Header?
+
+9. What information can be extracted from a server certificate?
